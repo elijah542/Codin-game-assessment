@@ -1,2 +1,7 @@
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+name = input(Welcome! What's your name?" )
+print("Hello " + name +"!")
+
+import random
+
+Questions = []
+Anwsers = []

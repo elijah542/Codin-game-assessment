@@ -1,0 +1,79 @@
+Q: Which country has won the most FIFA World Cup titles?
+A: Germany | Argentina | Brazil | Italy
+Answer: Brazil
+
+Q: In tennis, what is the term for a score of 40-40?
+A: Love-all | Match point | Deuce | Tie
+Answer: Deuce
+
+Q: How many players are on a basketball team on the court at one time?
+A: 6 | 4 | 7 | 5
+Answer: 5
+
+Q: In which sport would you perform a 'slam dunk'?
+A: Volleyball | Baseball | Football | Basketball
+Answer: Basketball
+
+Q: How many holes are there in a standard round of golf?
+A: 9 | 12 | 18 | 21
+Answer: 18
+
+Q: Which country invented the sport of cricket?
+A: Australia | India | England | South Africa
+Answer: England
+
+Q: How long is a standard marathon race in kilometres?
+A: 40.2 | 41.1 | 42.195 | 43.5
+Answer: 42.195
+
+Q: In which sport is the Stanley Cup awarded?
+A: Baseball | Ice Hockey | American Football | Basketball
+Answer: Ice Hockey
+
+Q: How many gold medals did Michael Phelps win across his Olympic career?
+A: 18 | 21 | 23 | 25
+Answer: 23
+
+Q: What sport is played at Wimbledon?
+A: Squash | Badminton | Tennis | Croquet
+Answer: Tennis
+
+Q: In boxing, how many minutes is a standard round?
+A: 2 | 3 | 4 | 5
+Answer: 3
+
+Q: Which team has won the most Super Bowl championships?
+A: Dallas Cowboys | San Francisco 49ers | New England Patriots | Pittsburgh Steelers
+Answer: New England Patriots
+
+Q: What is the maximum score in a single game of ten-pin bowling?
+A: 270 | 280 | 300 | 310
+Answer: 300
+
+Q: Which nation hosted the 2016 Summer Olympics?
+A: China | UK | Brazil | Japan
+Answer: Brazil
+
+Q: In football (soccer), how many players are on the field per team?
+A: 9 | 10 | 11 | 12
+Answer: 11
+
+Q: What colour jersey does the Tour de France overall leader wear?
+A: Red | Green | White | Yellow
+Answer: Yellow
+
+Q: In which sport do players use a shuttlecock?
+A: Squash | Racquetball | Badminton | Paddle tennis
+Answer: Badminton
+
+Q: How many points is a try worth in rugby union?
+A: 4 | 5 | 6 | 7
+Answer: 5
+
+Q: Which country won the most gold medals at the 2020 Tokyo Olympics?
+A: China | Russia | Great Britain | USA
+Answer: USA
+
+Q: What is the diameter of a basketball hoop in inches?
+A: 16 | 18 | 20 | 22
+Answer: 18

@@ -1,0 +1,79 @@
+Q: What is the capital city of Australia?
+A: Melbourne | Sydney | Brisbane | Canberra
+Answer: Canberra
+
+Q: Which is the longest river in the world?
+A: Amazon | Mississippi | Congo | Nile
+Answer: Nile
+
+Q: On which continent is the Sahara Desert located?
+A: Asia | South America | Australia | Africa
+Answer: Africa
+
+Q: What is the capital of Canada?
+A: Toronto | Vancouver | Ottawa | Montreal
+Answer: Ottawa
+
+Q: Which country has the largest population?
+A: USA | India | China | Indonesia
+Answer: India
+
+Q: Mount Everest is located on the border of which two countries?
+A: India and Tibet | Nepal and Tibet | Nepal and India | Bhutan and China
+Answer: Nepal and Tibet
+
+Q: What is the smallest country in the world by area?
+A: Monaco | San Marino | Liechtenstein | Vatican City
+Answer: Vatican City
+
+Q: Which ocean is the largest?
+A: Atlantic | Indian | Arctic | Pacific
+Answer: Pacific
+
+Q: What is the capital city of Japan?
+A: Osaka | Kyoto | Hiroshima | Tokyo
+Answer: Tokyo
+
+Q: The Amazon Rainforest is primarily located in which country?
+A: Colombia | Peru | Venezuela | Brazil
+Answer: Brazil
+
+Q: Which country has the most natural lakes?
+A: Russia | USA | Finland | Canada
+Answer: Canada
+
+Q: What is the capital of Brazil?
+A: Rio de Janeiro | São Paulo | Salvador | Brasília
+Answer: Brasília
+
+Q: Which is the largest desert in the world?
+A: Gobi | Sahara | Arabian | Antarctic
+Answer: Antarctic
+
+Q: How many countries are in Africa?
+A: 48 | 52 | 54 | 58
+Answer: 54
+
+Q: What is the capital of New Zealand?
+A: Auckland | Christchurch | Dunedin | Wellington
+Answer: Wellington
+
+Q: Which country has the longest coastline?
+A: Russia | Norway | Indonesia | Canada
+Answer: Canada
+
+Q: The Strait of Gibraltar connects the Atlantic Ocean to which sea?
+A: Red Sea | Black Sea | Adriatic Sea | Mediterranean Sea
+Answer: Mediterranean Sea
+
+Q: Which is the tallest mountain in Africa?
+A: Mount Kenya | Mount Kilimanjaro | Ras Dashen | Mount Stanley
+Answer: Mount Kilimanjaro
+
+Q: What is the currency of Japan?
+A: Won | Yuan | Baht | Yen
+Answer: Yen
+
+Q: In which country would you find the ancient ruins of Petra?
+A: Egypt | Israel | Jordan | Saudi Arabia
+Answer: Jordan

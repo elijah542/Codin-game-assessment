@@ -1,0 +1,79 @@
+Q: In which year did World War II end?
+A: 1943 | 1944 | 1946 | 1945
+Answer: 1945
+
+Q: Who was the first President of the United States?
+A: John Adams | Benjamin Franklin | Thomas Jefferson | George Washington
+Answer: George Washington
+
+Q: The ancient city of Pompeii was destroyed by which volcano?
+A: Etna | Stromboli | Vulcano | Vesuvius
+Answer: Vesuvius
+
+Q: Who was the first person to walk on the Moon?
+A: Buzz Aldrin | Yuri Gagarin | Neil Armstrong | John Glenn
+Answer: Neil Armstrong
+
+Q: Which empire was ruled by Julius Caesar?
+A: Greek | Ottoman | Roman | Byzantine
+Answer: Roman
+
+Q: In which year did the Berlin Wall fall?
+A: 1987 | 1988 | 1989 | 1991
+Answer: 1989
+
+Q: Who painted the Mona Lisa?
+A: Michelangelo | Raphael | Leonardo da Vinci | Caravaggio
+Answer: Leonardo da Vinci
+
+Q: The Great Wall of China was primarily built to protect against invasions from which direction?
+A: South | East | West | North
+Answer: North
+
+Q: Which country was the first to grant women the right to vote?
+A: Australia | UK | USA | New Zealand
+Answer: New Zealand
+
+Q: Who was the Egyptian queen famously associated with Julius Caesar and Mark Antony?
+A: Nefertiti | Hatshepsut | Cleopatra | Isis
+Answer: Cleopatra
+
+Q: In which year did the Titanic sink?
+A: 1910 | 1911 | 1912 | 1914
+Answer: 1912
+
+Q: Who wrote the Declaration of Independence?
+A: George Washington | Alexander Hamilton | Thomas Jefferson | Benjamin Franklin
+Answer: Thomas Jefferson
+
+Q: The French Revolution began in which year?
+A: 1776 | 1783 | 1789 | 1799
+Answer: 1789
+
+Q: Which ancient wonder of the world still stands today?
+A: Hanging Gardens | Colossus of Rhodes | Great Pyramid of Giza | Lighthouse of Alexandria
+Answer: Great Pyramid of Giza
+
+Q: Who was the first woman to win a Nobel Prize?
+A: Rosalind Franklin | Dorothy Hodgkin | Marie Curie | Ada Lovelace
+Answer: Marie Curie
+
+Q: The Cold War was primarily between which two superpowers?
+A: USA and China | USA and USSR | UK and USSR | USA and Germany
+Answer: USA and USSR
+
+Q: Which ship famously defeated the Spanish Armada in 1588?
+A: It was a fleet, not one ship | HMS Victory | Golden Hind | Mayflower
+Answer: It was a fleet, not one ship
+
+Q: Napoleon Bonaparte was exiled to which island after Waterloo?
+A: Corsica | Elba | Malta | Saint Helena
+Answer: Saint Helena
+
+Q: The Renaissance period originated in which country?
+A: France | Spain | Greece | Italy
+Answer: Italy
+
+Q: Which ancient civilisation built Machu Picchu?
+A: Aztec | Maya | Inca | Olmec
+Answer: Inca

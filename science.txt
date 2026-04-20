@@ -1,0 +1,79 @@
+Q: What is the chemical symbol for gold?
+A: Go | Gd | Gl | Au
+Answer: Au
+
+Q: How many bones are in the adult human body?
+A: 185 | 206 | 212 | 220
+Answer: 206
+
+Q: What planet is known as the Red Planet?
+A: Venus | Jupiter | Saturn | Mars
+Answer: Mars
+
+Q: What is the speed of light approximately (km/s)?
+A: 150,000 | 200,000 | 300,000 | 450,000
+Answer: 300,000
+
+Q: What gas do plants absorb from the atmosphere for photosynthesis?
+A: Oxygen | Nitrogen | Carbon Dioxide | Hydrogen
+Answer: Carbon Dioxide
+
+Q: How many chromosomes do humans normally have?
+A: 44 | 46 | 48 | 50
+Answer: 46
+
+Q: What is the powerhouse of the cell?
+A: Nucleus | Ribosome | Mitochondria | Golgi body
+Answer: Mitochondria
+
+Q: Which element has the atomic number 1?
+A: Helium | Oxygen | Carbon | Hydrogen
+Answer: Hydrogen
+
+Q: What is the boiling point of water in Celsius at sea level?
+A: 90 | 95 | 100 | 105
+Answer: 100
+
+Q: Which planet has the most moons?
+A: Jupiter | Saturn | Uranus | Neptune
+Answer: Saturn
+
+Q: What force keeps planets in orbit around the Sun?
+A: Magnetism | Friction | Gravity | Electromagnetism
+Answer: Gravity
+
+Q: What is the hardest natural substance on Earth?
+A: Quartz | Iron | Diamond | Titanium
+Answer: Diamond
+
+Q: DNA stands for what?
+A: Dioxynucleic Acid | Deoxyribonucleic Acid | Dinitrogen Acid | Deoxyribose Amino Acid
+Answer: Deoxyribonucleic Acid
+
+Q: How many chambers does the human heart have?
+A: 2 | 3 | 4 | 6
+Answer: 4
+
+Q: What is the most abundant gas in Earth's atmosphere?
+A: Oxygen | Carbon Dioxide | Argon | Nitrogen
+Answer: Nitrogen
+
+Q: What type of energy does the Sun primarily emit?
+A: Nuclear | Chemical | Electromagnetic | Kinetic
+Answer: Electromagnetic
+
+Q: Which organ produces insulin?
+A: Liver | Kidney | Spleen | Pancreas
+Answer: Pancreas
+
+Q: What is H2O more commonly known as?
+A: Salt | Acid | Water | Alcohol
+Answer: Water
+
+Q: Light from the Sun takes approximately how long to reach Earth?
+A: 4 minutes | 8 minutes | 12 minutes | 20 minutes
+Answer: 8 minutes
+
+Q: Which scientist proposed the theory of general relativity?
+A: Isaac Newton | Niels Bohr | Albert Einstein | Max Planck
+Answer: Albert Einstein
