@@ -1,0 +1,79 @@
+Q: How many sides does a hexagon have?
+A: 5 | 7 | 8 | 6
+Answer: 6
+
+Q: What language has the most native speakers worldwide?
+A: Spanish | English | Hindi | Mandarin Chinese
+Answer: Mandarin Chinese
+
+Q: Which animal is known as the ship of the desert?
+A: Horse | Donkey | Elephant | Camel
+Answer: Camel
+
+Q: How many colours are in a rainbow?
+A: 5 | 6 | 7 | 8
+Answer: 7
+
+Q: What is the largest planet in our solar system?
+A: Saturn | Neptune | Uranus | Jupiter
+Answer: Jupiter
+
+Q: In which month does the summer solstice occur in the Northern Hemisphere?
+A: May | June | July | August
+Answer: June
+
+Q: How many legs does a spider have?
+A: 6 | 8 | 10 | 12
+Answer: 8
+
+Q: What is the square root of 144?
+A: 10 | 11 | 12 | 13
+Answer: 12
+
+Q: Which planet is closest to the Sun?
+A: Venus | Earth | Mars | Mercury
+Answer: Mercury
+
+Q: What is the most spoken language in the world by total speakers?
+A: Spanish | Hindi | English | Mandarin Chinese
+Answer: English
+
+Q: How many continents are there on Earth?
+A: 5 | 6 | 7 | 8
+Answer: 7
+
+Q: What is the chemical formula for table salt?
+A: NaCl | KCl | CaCl | MgCl
+Answer: NaCl
+
+Q: How many days are in a leap year?
+A: 364 | 365 | 366 | 367
+Answer: 366
+
+Q: What is the largest ocean on Earth?
+A: Atlantic | Indian | Arctic | Pacific
+Answer: Pacific
+
+Q: If you have a dozen eggs, how many do you have?
+A: 10 | 11 | 12 | 13
+Answer: 12
+
+Q: What colour do you get when you mix blue and yellow?
+A: Orange | Purple | Brown | Green
+Answer: Green
+
+Q: How many seconds are in one hour?
+A: 3,000 | 3,200 | 3,600 | 4,000
+Answer: 3,600
+
+Q: What is the longest bone in the human body?
+A: Tibia | Fibula | Spine | Femur
+Answer: Femur
+
+Q: Which direction does the Sun rise from?
+A: West | North | South | East
+Answer: East
+
+Q: How many millimetres are in one metre?
+A: 10 | 100 | 1,000 | 10,000
+Answer: 1,000
