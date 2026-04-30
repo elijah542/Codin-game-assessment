@@ -70,7 +70,7 @@ def ask_question(all_questions, category_num):
     chosen = random.choice(questions)
 
     print(f"\nCategory: {category_name}")
-     print(f"\nQ: {chosen['question']}")
+    print(f"\nQ: {chosen['question']}")
 
     # Display answer choices as A, B, C, D
     letters = ["A", "B", "C", "D"]
