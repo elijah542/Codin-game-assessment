@@ -70,29 +70,24 @@ def ask_question(all_questions, category_num):
     chosen = random.choice(questions)
 
     print(f"\nCategory: {category_name}")
-    print(f"\nQ: {chosen['question']}")
+   print(f"\nQ: {chosen['question']}")
 
-    # Display answer choices as A, B, C, D
-    letters = ["A", "B", "C", "D"]
-    for i, option in enumerate(chosen["options"]):
-        print(f"  {letters[i]}. {option}")
+letters = ["A", "B", "C", "D"]
+for i, option in enumerate(chosen["options"]):
+    print(f"  {letters[i]}. {option}")
 
-    
-    answer_to_letter = {}
-    letter_to_answer = {}
-    for i, option in enumerate(chosen["options"]):
-        answer_to_letter[option.lower()] = letters[i]
-        letter_to_answer[letters[i]] = option
+answer_to_letter = {}
+for i, option in enumerate(chosen["options"]):
+    answer_to_letter[option.lower()] = letters[i]
 
-    
+# Get answer
+answer = input("Your answer (A, B, C or D): ").strip().upper()
+while answer not in letters:
+    print("Invalid Response. Please answer again.")
     answer = input("Your answer (A, B, C or D): ").strip().upper()
-    while answer not in letters:
-        print("Invalid Response. Please answer again.")
-        answer = input("Your answer (A, B, C or D): ").strip().upper()
 
-
-    correct_letter = answer_to_letter.get(chosen["answer"].lower())
-    if answer == correct_letter:
+correct_letter = answer_to_letter.get(chosen["answer"].lower())
+if answer == correct_letter:
         print("Correct!")
         if scores[roll - 1] == 0:
             scores[roll - 1] = 1
