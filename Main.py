@@ -1,4 +1,4 @@
-name = input("Welcome! What's your name?")
+name = input("Welcome! What's your name? ")
 print("Hello " + name +"!")
 
 import random
@@ -141,5 +141,5 @@ def main():
             break
 
 
-if __name__ == "__main__":
-    main()
+#if __name__ == "__main__":
+#    main()
