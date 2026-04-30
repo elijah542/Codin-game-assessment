@@ -70,22 +70,35 @@ def ask_question(all_questions, category_num):
     chosen = random.choice(questions)
 
     print(f"\nCategory: {category_name}")
-    print(f"Q: {chosen['question']}")
-    for option in chosen["options"]:
-        print(f"  A: {option}")
+     print(f"\nQ: {chosen['question']}")
 
-    while True:
-        user_answer = input("Your answer: ").strip()
-        if user_answer:
-            break
+    # Display answer choices as A, B, C, D
+    letters = ["A", "B", "C", "D"]
+    for i, option in enumerate(chosen["options"]):
+        print(f"  {letters[i]}. {option}")
+
+    
+    answer_to_letter = {}
+    letter_to_answer = {}
+    for i, option in enumerate(chosen["options"]):
+        answer_to_letter[option.lower()] = letters[i]
+        letter_to_answer[letters[i]] = option
+
+    
+    answer = input("Your answer (A, B, C or D): ").strip().upper()
+    while answer not in letters:
         print("Invalid Response. Please answer again.")
+        answer = input("Your answer (A, B, C or D): ").strip().upper()
 
-    if user_answer.lower() == chosen["answer"].lower():
+
+    correct_letter = answer_to_letter.get(chosen["answer"].lower())
+    if answer == correct_letter:
         print("Correct!")
-        return True
+        if scores[roll - 1] == 0:
+            scores[roll - 1] = 1
+            print(f"You've completed the {category_names[roll]} category!")
     else:
-        print(f"Incorrect! The correct answer was: {chosen['answer']}.")
-        return False
+        print(f"Incorrect! The correct answer was {correct_letter}. {chosen['answer']}")
 
 
 def play_game(all_questions):
